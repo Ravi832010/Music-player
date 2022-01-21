@@ -1,0 +1,30 @@
+
+#pev{
+   
+   height: 40px;
+   width: 50px;
+   color: rgb(108,117,125);
+   font-size: 30px;
+    
+}
+#play{
+   
+    height: 40px;
+    width: 50px;
+    color: rgb(108,117,125);
+    font-size: 40px;
+
+}
+#next{
+    
+   height: 40px;
+   width: 50px;
+   color: rgb(108,117,125);
+   font-size: 30px;
+}
+#div_container{
+    margin-top: 3%;
+    margin-left: 25%;
+    height:540px
+    
+}
